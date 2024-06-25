@@ -15,7 +15,7 @@
         under the directory "images", you will need to have all the fire images you want to use to train the model.    
         under the directory "Annotations", you will need to have all the .xml file converted from images in directory "images" using labeling software such as "labelImg".    
         keep "labels" empty for now    
-    -under the directory "yolov5_master", create another directory "weights", you will need to have the weight file you want to use there (I used yolov5m.pt).     
+    -under the directory "yolov5_master", create another directory "weights", you will need to have the weight file you want to use there (I used yolov5m.pt, you can also use other models and weights: such as yolov5s, yolov5l, yolov5x).     
     (download here:https://github.com/ultralytics/yolov5/releases)
 
 
