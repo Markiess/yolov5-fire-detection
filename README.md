@@ -1,6 +1,6 @@
 1. Preparation:     
     -environment: >= pyhton 3.8    
-    -torch and CUDA: 1.7.1+cu110; (install here : https://pytorch.org/)                  
+    -torch and CUDA (if u have a gpu): 1.7.1+cu110; (install here : https://pytorch.org/)                  
     -Other packages: Simply run the requirements in the built-in requirements.txt file of the code, and install whatever is missing     
 
 
